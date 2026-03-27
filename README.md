@@ -44,7 +44,7 @@ Built a star schema independently with 4 tables:
           by % per Product 
 - Page 4: Geography Trends — monthly revenue 
           by geography with ranking table
-  - Page 5: UK showing declining trends 
+- Page 5: UK showing declining trends 
 
 ## Screenshots
 ![Page 1](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/01_Highest_Per_Box.png)
