@@ -47,11 +47,11 @@ Built a star schema independently with 4 tables:
   - Page 5: UK showing declining trends 
 
 ## Screenshots
-![Page 1]()
-![Page 2]()
-![Page 3]()
-![Page 4]()
-![Page 5]()
+![Page 1](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/01_Highest_Per_Box.png)
+![Page 2](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/02_Category_with_highest_percent.png)
+![Page 3](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/03_Lowest_Per_Box.png)
+![Page 4](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/04_Geography_Trends.png)
+![Page 5](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/05_Toolkit_country.png)
 
 ## Tools
 Power BI Desktop | Power Query | DAX
