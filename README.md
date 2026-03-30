@@ -47,10 +47,20 @@ Built a star schema independently with 4 tables:
 - Page 5: UK showing declining trends 
 
 ## Screenshots
+
+## Highest Sales per Box By Salesperson
 ![Page 1](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/01_Highest_Per_Box.png)
+
+## Category with Highest % of Total Sales 
 ![Page 2](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/02_Category_with_highest_percent.png)
+
+## Lowest Per Box 
 ![Page 3](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/03_Lowest_Per_Box.png)
+
+## Geography Trends 
 ![Page 4](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/04_Geography_Trends.png)
+
+## Toolkit 
 ![Page 5](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/05_Toolkit_country.png)
 
 ## Tools
