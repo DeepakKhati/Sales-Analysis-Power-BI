@@ -1,4 +1,5 @@
-# Sales Analysis — Power BI
+## Awesome Chocolates — Independent Sales Analysis
+## Power BI | Star Schema | DAX
 
 ## Project Overview
 An end-to-end Power BI report analyzing sales performance 
@@ -6,7 +7,7 @@ across 6 geographies, multiple products, and sales teams.
 Built entirely independently — star schema, DAX measures, 
 and business insights developed without tutorial guidance. 
 No dataset was provided — data model and business questions 
-were self-defined from scratch.
+were self-defined from scratch.h.
 
 ## Business Questions Answered
 1. Which geography generates the highest revenue?
