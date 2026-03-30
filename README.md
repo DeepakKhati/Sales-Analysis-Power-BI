@@ -3,7 +3,10 @@
 ## Project Overview
 An end-to-end Power BI report analyzing sales performance 
 across 6 geographies, multiple products, and sales teams.
-Built independently as part of Power BI learning journey.
+Built entirely independently — star schema, DAX measures, 
+and business insights developed without tutorial guidance. 
+No dataset was provided — data model and business questions 
+were self-defined from scratch.
 
 ## Business Questions Answered
 1. Which geography generates the highest revenue?
@@ -31,20 +34,25 @@ Built a star schema independently with 4 tables:
 ## Technical Skills Used
 - Power BI Desktop
 - Power Query — data cleaning, conditional columns
-- DAX measures — Total Amount, Total Boxes, 
-  Amount per Box, CALCULATE, Variance %
 - Star Schema data modeling
 - Filter context understanding
 
+## DAX Measures Written
+
+Total Amount = SUM(sales[Amount])
+
+Total Boxes = SUM(sales[Boxes])
+
+Amount per Box = DIVIDE([Total Amount], [Total Boxes])
+
+Variance % = DIVIDE([Total Amount] - [Total Target], [Total Target])
+
 ## Report Pages
-- Page 1: Highest Sales per Box by Salesperon
-          & Geography wise Best Performance 
-- Page 2: Category with Highest % of Total sales
-- Page 3: Highest per Box by Teams & Low Shipment
-          by % per Product 
-- Page 4: Geography Trends — monthly revenue 
-          by geography with ranking table
-- Page 5: UK showing declining trends 
+* Page 1: Salesperson Performance & Geography Revenue
+* Page 2: Category Sales Distribution
+* Page 3: Product Profitability & Shipment Analysis
+* Page 4: Geography Trends & Marketing Investment Analysis
+* Page 5: UK Market Decline Analysis
 
 ## Screenshots
 
@@ -62,6 +70,15 @@ Built a star schema independently with 4 tables:
 
 ## Toolkit 
 ![Page 5](https://github.com/DeepakKhati/Sales-Analysis-Power-BI/blob/main/screenshots/05_Toolkit_country.png)
+
+
+## Known Limitations
+- Dataset does not include marketing spend data 
+  — ROI analysis recommended as next step
+- Data covers 2021-2022 only — trends may not 
+  reflect current market conditions
+- No cost data available — profitability analysis 
+  limited to revenue metrics only
 
 ## Tools
 Power BI Desktop | Power Query | DAX
